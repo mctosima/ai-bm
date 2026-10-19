@@ -1,0 +1,17 @@
+[project]
+name = "ai-bm"
+version = "0.1.0"
+description = "Hands-on Kecerdasan Buatan (BM25-41204) — Teknik Biomedis ITERA"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.7",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scikit-learn",
+    "kagglehub",
+    "jupyterlab",
+]
+
+[tool.uv]
+package = false
