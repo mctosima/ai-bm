@@ -5,6 +5,7 @@ description = "Hands-on Kecerdasan Buatan (BM25-41204) — Teknik Biomedis ITERA
 requires-python = ">=3.10"
 dependencies = [
     "torch>=2.7",
+    "torchvision",
     "numpy",
     "pandas",
     "matplotlib",

@@ -3,3 +3,5 @@ __pycache__/
 .ipynb_checkpoints/
 *.pt
 .DS_Store
+pertemuan-*/data/
+!pertemuan-10/model_unet_paru.pt
