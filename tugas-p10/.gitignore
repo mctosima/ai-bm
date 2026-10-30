@@ -1,0 +1,10 @@
+# Dataset diunduh otomatis oleh notebook — jangan di-commit
+data/
+hasil.zip
+
+# Lingkungan Python & file sementara
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+.DS_Store

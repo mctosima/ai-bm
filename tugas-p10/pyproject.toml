@@ -1,0 +1,17 @@
+[project]
+name = "tugas-p10-segmentasi-polip"
+version = "0.1.0"
+description = "Tugas P10 Kecerdasan Buatan (BM25-41204): segmentasi polip Kvasir-SEG dengan U-Net"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.7",
+    "torchvision",
+    "numpy",
+    "matplotlib",
+    "pillow",
+    "kagglehub",
+    "jupyterlab",
+]
+
+[tool.uv]
+package = false

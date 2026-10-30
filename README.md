@@ -9,6 +9,10 @@ Halaman kuliah: https://mctm.web.id/ai-bm
 | 9 — Deep Learning untuk Sinyal Biomedis | [Klasifikasi detak jantung EKG dengan 1D CNN](pertemuan-09/klasifikasi_ekg_1d_cnn.ipynb) | [![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mctosima/ai-bm/blob/main/pertemuan-09/klasifikasi_ekg_1d_cnn.ipynb) |
 | 10 — Segmentasi & Augmentasi Citra Medis | [Segmentasi paru pada X-ray dengan U-Net + augmentasi](pertemuan-10/segmentasi_paru_unet.ipynb) | [![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mctosima/ai-bm/blob/main/pertemuan-10/segmentasi_paru_unet.ipynb) |
 
+## Tugas P10 — Segmentasi Polip (Kvasir-SEG)
+
+Starter tugas kelompok ada di folder [`tugas-p10/`](tugas-p10/): notebook `segmentasi_polip.ipynb`, template laporan `README.md`, `pyproject.toml`, dan `.gitignore`. Petunjuk lengkap, tenggat, dan form pengumpulan: **https://mctm.web.id/ai-bm/tugas**
+
 ## Cara menjalankan
 
 **Paling mudah — Google Colab (tanpa instalasi):** klik tombol *Buka di Colab* di atas, lalu pilih *Runtime → Change runtime type → T4 GPU*.
